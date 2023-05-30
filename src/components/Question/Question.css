@@ -1,0 +1,12 @@
+.question {
+    padding: 50px 300px 50px 100px;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.question h1 {
+    margin-bottom: 25px;
+}

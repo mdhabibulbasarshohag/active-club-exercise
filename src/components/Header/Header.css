@@ -1,0 +1,15 @@
+.header {
+    padding: 15px 100px;
+    background-color: rgb(204, 216, 249);
+    color: rgb(93, 95, 234);
+}
+
+.header-text {
+    display: flex;
+    align-items: center;
+}
+
+.fa-dumbbell {
+    font-size: 45px;
+    margin-right: 10px;
+}

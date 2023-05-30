@@ -1,0 +1,144 @@
+.container-items {
+    display: grid;
+    grid-template-columns: 4fr 1.5fr;
+}
+
+
+.items {
+    padding: 50px 100px;
+    background-color: rgb(242, 244, 249);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.time {
+    background-color: white;
+    padding: 25px;
+    /* position: sticky;
+    top: 0; */
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    background-color: rgb(242, 244, 249);
+    padding: 15px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.info img {
+    width: 17%;
+    border-radius: 50%;
+    height: 60px;
+    margin-right: 10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+
+.more-info {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(242, 244, 249);
+    padding: 25px 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.break h2 {
+    margin-bottom: 15px;
+}
+
+.btn {
+    padding: 15px 10px;
+    background-color: rgb(242, 244, 249);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.btn button {
+    border: none;
+    padding: 15px 12px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: white;
+}
+
+.btn button:hover {
+    background-color: rgb(93, 95, 234);
+    color: white;
+}
+
+.Ex-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.time-Exercise {
+    margin: 25px 0;
+    padding: 15px 20px;
+    background-color: rgb(242, 244, 249);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+.break-time {
+    margin: 0 0 20px;
+    padding: 15px 20px;
+    background-color: rgb(242, 244, 249);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.activity button {
+    width: 100%;
+    padding: 15px 0;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: rgb(93, 95, 234);
+    color: white;
+}
+
+.activity button:hover {
+    background-color: rgb(85, 171, 104);
+}

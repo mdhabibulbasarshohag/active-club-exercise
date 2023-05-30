@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Weight lifting",
+        "picture": "https://timesofindia.indiatimes.com/thumb/msid-73042762,imgsize-373248,width-400,resizemode-4/73042762.jpg",
+        "time": "40s",
+        "info": "If you don't make time for exercise, you'll probably have to make time for illness"
+    },
+    {
+        "id": 2,
+        "name": "Pick a dumble",
+        "picture": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?w=996&t=st=1664380258~exp=1664380858~hmac=fc2f10efd5b2f68c715287467bdf769457306cdc087875422f67dbd91d41a222",
+        "time": "30s",
+        "info": "If you don't make time for exercise, you'll probably have to make time for illness"
+    },
+    {
+        "id": 3,
+        "name": "Trademill",
+        "picture": "https://img.etimg.com/thumb/width-640,height-480,imgsize-51168,resizemode-1,msid-89199209/news/india/gym-owners-want-delhi-govt-and-ddma-to-open-gyms-at-50-capacity/working-out-in-the-gym.jpg",
+        "time": "50s",
+        "info": "If you don't make time for exercise, you'll probably have to make time for illness"
+    },
+    {
+        "id": 4,
+        "name": "100 KG Weight",
+        "picture": "https://www.latrobe.edu.au/galleries/gym-bendigo/LTU-Sports-Centre-23.jpg",
+        "time": "45s",
+        "info": "If you don't make time for exercise, you'll probably have to make time for illness"
+    },
+    {
+        "id": 5,
+        "name": "Lifting-weights",
+        "picture": "https://www.helpguide.org/wp-content/uploads/resistance-band-woman-doing-leg-workout-768.jpg",
+        "time": "55s",
+        "info": "If you don't make time for exercise, you'll probably have to make time for illness"
+    },
+    {
+        "id": 6,
+        "name": "Kateboarder",
+        "picture": "https://media.istockphoto.com/photos/cute-brunette-working-out-at-a-gym-picture-id459880391?k=20&m=459880391&s=612x612&w=0&h=Rn8tPBeKlnePDP1gihLK08mawqqAcf2yLXfvUWcfHJU=",
+        "time": "35s",
+        "info": "If you don't make time for exercise, you'll probably have to make time for illness"
+    }
+]
